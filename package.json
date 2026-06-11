@@ -1,6 +1,6 @@
 {
 "name": "@react-native-ohos/react-native-swiper-flatlist",
-  "version": "3.2.6-rc.6",
+  "version": "3.2.7",
   "main": "index.ts",
   "harmony": {
     "alias": "react-native-swiper-flatlist"
@@ -63,12 +63,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gusgard/react-native-swiper-flatlist.git"
+    "url": "git+https://github.com/react-native-oh-library/react-native-swiper-flatlist.git"
   },
   "bugs": {
-    "url": "https://github.com/gusgard/react-native-swiper-flatlist/issues"
+    "url": "https://github.com/react-native-oh-library/react-native-swiper-flatlist/issues"
   },
-  "homepage": "https://github.com/gusgard/react-native-swiper-flatlist#readme",
+  "homepage": "https://github.com/react-native-oh-library/react-native-swiper-flatlist#readme",
   "keywords": [
     "react-native-swiper",
     "react-native-swiper-flatlist",
